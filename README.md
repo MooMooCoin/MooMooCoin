@@ -1,4 +1,14 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<center>
+<h2>MooMooCoin ($MooMoo)</h2>
+
+<img src="https://moomoocoin.io/wp-content/uploads/2022/01/MooMoo-Coin-Final-e1641838900356.png" alt="Dogecoin" data-canonical-src="https://moomoocoin.io/wp-content/uploads/2022/01/MooMoo-Coin-Final-e1641838900356.png" style="max-width: 100%;">
+
+<p>MooMooCoin is a an open source peer-to-peer collectors meme coin (digital currency) supported by bulls & heifers worldwide.</p>
+  
+</center>
+ </html>
 
 <!--
 **MooMooCoin/MooMooCoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

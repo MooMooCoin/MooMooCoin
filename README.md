@@ -10,7 +10,8 @@
   <br><br>
 
   <h1><Buyers Guide</h1>
-  <i><h3>1. Purchase BNB</i></h3>
+    
+ <h3>1. Purchase BNB</h3>
     <p></p>
     
   <i><h3>1. Purchase BNB</i></h3>

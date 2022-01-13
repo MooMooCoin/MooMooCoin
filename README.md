@@ -16,10 +16,14 @@
 
   <hr></hr>  
 
-  <h2> What is MooMooCoin? </h2>  
+  <h2>What is MooMooCoin?  </h2>  
 <p>MooMooCoin is a an open source peer-to-peer collectors meme coin (digital currency) supported by bulls & heifers worldwide.</p>
   <p>Contract: 0x10aAc4785AaC3d7571E89158d8d4917Bca614C89 </p>
-  <p>Website: <a href="https://moomoocoin.io">MooMooCoin.io</a>
+    <p>Official Coin Spelling: MooMooCoin</p>
+  <p>Slogan: It's over the Mooooooon!</p>
+  <p>Ticker: MooMoo</p>
+    <p>Website: <a href="https://moomoocoin.io">MooMooCoin.io</a></p>
+
     
       
 

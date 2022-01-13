@@ -51,16 +51,22 @@ Contract: 0x10aAc4785AaC3d7571E89158d8d4917Bca614C89
   <!-- Community -->
   
   <h2>Community & Social Media </h2>
-  <p> Check out the following ways to connect and interact with the MooMooCoin Community:</p>
+  <p> Check out the following ways to connect and interact with the MooMooCoin Community:
  <p>-Instagram: <a href="https://www.instagram.com/moomoocoin_/">Click Here!</a>
     <p>-Telegram: <a href="https://t.me/MooMooCoinChat">Click Here!</a>
        <p>-Twitter: <a href="https://twitter.com/MooMooCoin">Click Here!</a>
           <p>-Reddit: <a href="https://www.reddit.com/r/MooMooCoin/">Click Here!</a>
              <p>-Discord: <a href="https://discord.gg/wSAtD3RDa7">Click Here!</a>
                <p>-Facebook: <a href="https://www.facebook.com/MooMooCoin">Click Here!</a>
-                 <p>-YouTube: <a href="https://www.youtube.com/channel/UCFnR_RkhkKS7psOFt5lXlNA">Click Here!</a>
-  
-  
+                 <p>-YouTube: <a href="https://www.youtube.com/channel/UCFnR_RkhkKS7psOFt5lXlNA">Click Here!</a></p>
+
+  <br>
+  <hr></hr>  
+  <hr></hr>  
+    <hr></hr>  
+
+
+
   
   
   </b>

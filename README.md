@@ -23,6 +23,7 @@
   <p>Slogan: It's over the Mooooooon!</p>
   <p>Ticker: MooMoo</p>
     <p>Website: <a href="https://moomoocoin.io">MooMooCoin.io</a></p>
+  <p>BSCScan: <a href="https://bscscan.com/token/0x10aac4785aac3d7571e89158d8d4917bca614c89?a=0xdCb90D55B6A7c180fD70472CCE3FC7E23EAE9d87">Click Here!</a></p> 
 
     
       

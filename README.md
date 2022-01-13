@@ -25,6 +25,7 @@
 
   
 <!-- Buyers Guide -->
+    
 <h2> Buyers Guide </h2>
 <p> If you are getting started in buying alt coins, following these simple steps to purchase MooMooCoin. If you are experienced in purchasing altcoins with BNB and are ready to purchase, please click here to buy now/swap (PancakeSwap): <a href="https://pancakeswap.finance/swap?outputCurrency=0x10aAc4785AaC3d7571E89158d8d4917Bca614C89">Click Here!</a>
   
@@ -45,9 +46,23 @@ Other Method – Purchase BNB from an exchange such as Binance.com (EU) or Binan
   <p>  Connect your Trust wallet to PancakeSwap, then paste our contract address into the token field to swap $BNB for $MooMoo. Please make sure to confirm the official contract address:<br><br>
 Contract: 0x10aAc4785AaC3d7571E89158d8d4917Bca614C89
    </p>
-  
-
  
+  
+  <!-- Community -->
+  
+  <h2>Community & Social Media </h2>
+  <p> Check out the following ways to connect and interact with the MooMooCoin Community:</p>
+ <p>-Instagram: <a href="https://www.instagram.com/moomoocoin_/">Click Here!</a>
+    <p>-Telegram: <a href="https://t.me/MooMooCoinChat">Click Here!</a>
+       <p>-Twitter: <a href="https://twitter.com/MooMooCoin">Click Here!</a>
+          <p>-Reddit: <a href="https://www.reddit.com/r/MooMooCoin/">Click Here!</a>
+             <p>-Discord: <a href="https://discord.gg/wSAtD3RDa7">Click Here!</a>
+               <p>-Facebook: <a href="https://www.facebook.com/MooMooCoin">Click Here!</a>
+                 <p>-YouTube: <a href="https://www.youtube.com/channel/UCFnR_RkhkKS7psOFt5lXlNA">Click Here!</a>
+  
+  
+  
+  
   </b>
  </font>
  </html>

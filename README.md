@@ -53,6 +53,18 @@ Contract: 0x10aAc4785AaC3d7571E89158d8d4917Bca614C89
    </p>
  
   
+  <!-- Tokenomics -->
+  <h2> Tokenomics </h2>
+<p>  Total Supply: 1,000,000,000,000,000<br>
+ 40% - Available for Purchase <br>
+  10% - Liquidity<br>
+  50% - Private <br> </p>
+  
+  <p> The private holding of MooMooCoin will be slowly sold back into the economy to be available for purchase. This will help combay market minipulation such as "pump and dump" trading. </p>
+  
+  
+  
+  
   <!-- Community -->
   
   <h2>Community & Social Media </h2>
